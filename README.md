@@ -14,13 +14,13 @@ src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [amritanshu3011.netlify.app](amritanshu3011.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio website](amritanshu3011.netlify.app)
 
 - 💬 Ask me about **react, Javascript**
 
 - 📫 How to reach me **amritanshu3011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19PiE-dYfbP8jcqMt6mAvUJYKHc4oCGnN/view?usp=share_link](https://drive.google.com/file/d/19PiE-dYfbP8jcqMt6mAvUJYKHc4oCGnN/view?usp=share_link)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/19PiE-dYfbP8jcqMt6mAvUJYKHc4oCGnN/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
