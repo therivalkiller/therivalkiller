@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Amritanshu</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
-![git](https://github.com/therivalkiller/therivalkiller/assets/97250364/572372d8-5a2e-49e4-89f4-4487d10cf6b6)
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+![port](https://github.com/therivalkiller/therivalkiller/assets/97250364/257172ba-f92d-4558-acb9-8d8200c2a5ca)
+<img align="right" alt="Coding" width="400" 
+src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therivalkiller&label=Profile%20views&color=0e75b6&style=flat" alt="therivalkiller" /> </p>
 
