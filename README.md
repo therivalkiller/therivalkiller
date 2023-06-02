@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Amritanshu</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
-![port](https://github.com/therivalkiller/therivalkiller/assets/97250364/257172ba-f92d-4558-acb9-8d8200c2a5ca)
+
+![port](https://github.com/therivalkiller/therivalkiller/assets/97250364/40f3adf3-ec56-40e8-aa0e-d4555b652e68)
+
+
 <img align="right" alt="Coding" width="400" 
 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
