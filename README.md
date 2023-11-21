@@ -14,7 +14,7 @@ src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [Portfolio website]([amritanshu3011.netlify.app](https://amritanshu3011.netlify.app/))
+- You can check out all of my projects on my [portfolio website](https://amritanshu3011.netlify.app/).
 
 - 💬 Ask me about **react, Javascript**
 
