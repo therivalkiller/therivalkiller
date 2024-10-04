@@ -20,7 +20,7 @@ src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 - 📫 How to reach me **amritanshu3011@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/19PiE-dYfbP8jcqMt6mAvUJYKHc4oCGnN/view?usp=share_link)
+- 📄 Know about my experiences [resume link](https://bit.ly/Amritanshu_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
